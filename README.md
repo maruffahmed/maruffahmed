@@ -14,8 +14,8 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm funny, and big fan of ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/Maruf_Ahmed76)
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/maruf.ahmed76/)
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/maruf-ahmed-76m)
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:maruf.ahmed76@yahoo.com)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://www.instagram.com/maruf.ahmed76/)
+[![Twitter Badge](https://img.shields.io/badge/-maruf__Ahmed76-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Maruf_Ahmed76)](https://twitter.com/Maruf_Ahmed76)
+[![Facebook Badge](https://img.shields.io/badge/-maruf.ahmed76-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/maruf.ahmed76/)](https://www.facebook.com/maruf.ahmed76/)
+[![Linkedin Badge](https://img.shields.io/badge/-maruf-ahmed-76m-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maruf-ahmed-76m)](https://www.linkedin.com/in/maruf-ahmed-76m)
+[![Gmail Badge](https://img.shields.io/badge/-maruf.ahmed76@yahoo.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:maruf.ahmed76@yahoo.com)](mailto:maruf.ahmed76@yahoo.com)
+[![Instagram Badge](https://img.shields.io/badge/-maruf.ahmed76-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/maruf.ahmed76/)](https://www.instagram.com/maruf.ahmed76/)
