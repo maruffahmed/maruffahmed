@@ -28,3 +28,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-maruf.ahmed.76m-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maruf-ahmed-76m)](https://www.linkedin.com/in/maruf-ahmed-76m)
 [![Gmail Badge](https://img.shields.io/badge/-maruf.ahmed76@yahoo.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:maruf.ahmed76@yahoo.com)](mailto:maruf.ahmed76@yahoo.com)
 [![Instagram Badge](https://img.shields.io/badge/-maruf.ahmed76-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/maruf.ahmed76/)](https://www.instagram.com/maruf.ahmed76/)
+
+[![maruf's github stats](https://github-readme-stats.vercel.app/api?username=Maruf-Ahmed76&theme=dark&show_icons=true)](https://github.com/Maruf-Ahmed76)
