@@ -50,7 +50,7 @@ Web technology
 <p align="center">
 	<a href="https://github.com/maruffahmed"><img src="https://img.shields.io/github/followers/maruffahmed.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/marufffahmed"><img src="https://img.shields.io/twitter/follow/marufffahmed?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/inmaruffahmed"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/maruffahmed"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.facebook.com/marufffahmed"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
 	<a href="https://www.instagram.com/marufffahmed/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=intragram" alt="instragram"></a>
 </p>
