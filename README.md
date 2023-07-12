@@ -1,65 +1,155 @@
+<!-- Intro  -->
 <h3 align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working on
+        <samp>&gt; Howdy root!, I am
+          <b><a target="_blank" href="https://www.linkedin.com/in/maruffahmed/">Md Maruf Ahmed</a></b>
+        </samp>
 </h3>
+<br>
 
 <p align="center">
-Web technology
+        <!-- Organization  -->
+        <samp>
+                「 I write your idea in codes 」
+                <br>
+                「 I'm a passionate software engineer living in Bangladesh 」
+                <br>
+                <br>
+        </samp>
+        <!-- Use Stack Logos -->
+       <br>
+<br>
+
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+<br>
 </p>
 
-<h3 align="center">
-🌱 I’m currently learning
-</h3>
+ <br>
+<!-- Details Section-->
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Gmail -->
+        <a href="mailto:maruffamd@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/marufffahmed/" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        </a>
+          <!-- Twitter -->
+        <a href="https://www.twitter.com/marufffahmed/" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/maruffahmed/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+    </p>
+</details>
+<br>
 
-<p align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-</p>
+<!-- Portfolio Section -->
+<samp >
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+      <br>
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=rockreyad&label=Profile%20views&color=0eb493&style=flat-square" alt="maurffahmed" />
+      <br>
+      <br>
+    </p>
+    <br>
+</samp>
 
-<h3 align="center">
-💻 I work with
-</h3>
+<!-- Objectives -->
+<smap>
+    <br>
+  <p align='center'>
+    Computer Science Student, passionate about Software development (WEB)
+  </p>
+  </smap>
+  
+<hr>
 
-<p align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-</p>
+<!-- Technologies -->
+<smap align="center">
+    <br>
+  <p align="center"> Technologies</p>
+  <p align="center">
+  <img alt="Docker"
+                src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
+  </img>
+      <img alt="Linux"
+                src="https://img.shields.io/badge/-Linux-000?&logo=Linux">
+  <br>
+  <img alt="Node.js"
+                src="https://img.shields.io/badge/-Node.js-000?&logo=node.js">
+            <img alt="Express"
+                src="https://img.shields.io/badge/-Expresss-000?&logo=Express"/>
+           <img alt="MongoDB"
+                src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB"/>
+             <img alt="Prisma"
+                src="https://img.shields.io/badge/-Prisma-000?&logo=Prisma"/>
+  <br>
+        <img alt="React"
+                src="https://img.shields.io/badge/-React-000?&logo=React"/>
+  <img alt="Next"
+                src="https://img.shields.io/badge/-Next-000?&logo=Next.js"/>
+          <img alt="Remix"
+                src="https://img.shields.io/badge/-Remix-000?&logo=Remix"/>
+            <img alt="React Query"
+                src="https://img.shields.io/badge/-React%20Query-000?&logo=Reactquery"/>
+              <img alt="Chakra UI"
+                src="https://img.shields.io/badge/-Chakra%20Ui-000?&logo=Chakraui"/>
+                <img alt="Framer Motion"
+                src="https://img.shields.io/badge/-Framer%20Motion-000?&logo=Framer"/>
+      
+  <br>
+  </p>
+    <br>
+</smap>
 
-<h3 align="center">
-🖖🏻 I also use
-</h3>
-
-
-<p align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-</p>
-
-<h3 align="center">
-📫 How to reach me
-</h3>
-
-<p align="center">
-	<a href="https://github.com/maruffahmed"><img src="https://img.shields.io/github/followers/maruffahmed.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/marufffahmed"><img src="https://img.shields.io/twitter/follow/marufffahmed?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/maruffahmed"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.facebook.com/marufffahmed"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
-	<a href="https://www.instagram.com/marufffahmed/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=intragram" alt="instragram"></a>
-</p>
-
-<!--
-- 📫 How to reach me: ... [Here 🚀](https://www.developermaruf.me)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm funny, and big time fan of ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
--->
-
-
-
+<!-- Projects -->
+<smap align="center">
+  <br>
+ <p align="center"> <img alt="Works" src="https://media.giphy.com/media/TmPb7vBn0bdJ9TMEhi/giphy.gif" width="100"></p>
+  <p align="center">
+    <!-- project 1 -->
+    <a href="https://github.com/maruffahmed/Delivery-management-system" target="_blank">
+       <img alt="digitalService" src="https://img.shields.io/badge/-📝%20Delivery%20Management%20System-000">
+    </a>
+    <!-- project 2 -->
+    <a href="https://github.com/maruffahmed/Inventory-Management-System" target="_blank">
+       <img alt="akashLungi" src="https://img.shields.io/badge/-🛒%20Inventory%20Management%20System-000">
+     </a>
+    <!-- project 3 -->
+    <a href="https://github.com/maruffahmed/AlgoVisu" target="_blank">
+       <img alt="E-Mess" src="https://img.shields.io/badge/-🏢%20Algorithm%20Visualization-000">
+     </a>
+    </p>
+  <br>
+  </smap>
+ 
+<!--  Footer -->
+<smap align="center">
+  <br>
+  <p align="center">
+   <img alt="contact" src="https://media.giphy.com/media/oBl4FKDaXx6xQrW4cv/giphy.gif" width="100">
+    </p>
+  <p align="center">
+    <!-- Contact Email -->
+        <a href="mailto:maruffamd@gmail.com" target="_blank"><img alt="maruffamd@gmail.com"
+                src="https://img.shields.io/badge/-maruffamd@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+  </p>
+</smap>
