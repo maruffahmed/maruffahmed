@@ -9,7 +9,7 @@
 <p align="center">
         <!-- Organization  -->
         <samp>
-                「 I write your idea in codes 」
+                「 I write your idea into codes 」
                 <br>
                 「 I'm a passionate software engineer living in Bangladesh 」
                 <br>
