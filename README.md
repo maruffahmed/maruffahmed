@@ -18,7 +18,7 @@ Web technology
 </p>
 
 <h3 align="center">
-💻 I work with
+💻 I working with
 </h3>
 
 <p align="center">
