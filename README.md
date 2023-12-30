@@ -1,62 +1,71 @@
-<h3 align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working on
-</h3>
+<div align="center">
+	<!-- Intro -->
+	<samp>
+		I'm a software engineer
+		<br>
+		Working on Web technology
+		<br>
+	</samp>
+	<br/>
+	<samp>
+		My Teck Stacks:
+		<br>
+		<br>
+	</samp>
+	<div>
+		<img src="https://img.shields.io/badge/jvascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+		<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+		<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+		<img src="https://img.shields.io/badge/shopify%20liquid%20-%230B0B80.svg?&style=for-the-badge&logo=shopify&logoColor=white"/>
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+		<img src="https://img.shields.io/badge/next%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+		<img src="https://img.shields.io/badge/remix%20-%23000000.svg?&style=for-the-badge&logo=remix&logoColor=white"/>
+		<img src="https://img.shields.io/badge/express%20-%23222222.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+		<img src="https://img.shields.io/badge/nest%20-%23222222.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/mysql%20-%2302758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+		<img src="https://img.shields.io/badge/postgresql%20-%23306792.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+		<img src="https://img.shields.io/badge/mongodb%20-%2302684A.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+		<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+		<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+		<img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+	</div>
+</div>
 
 <p align="center">
-Web technology
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=maruffahmed&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maruffahmed&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+	<img src ="https://github-readme-streak-stats.herokuapp.com?user=maruffahmed&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-<h3 align="center">
-🌱 I’m currently learning
-</h3>
 
-<p align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-</p>
-
-<h3 align="center">
-💻 I working with
-</h3>
-
-<p align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-</p>
-
-<h3 align="center">
-🖖🏻 I also use
-</h3>
-
-
-<p align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-</p>
-
-<h3 align="center">
-📫 How to reach me
-</h3>
-
-<p align="center">
-	<a href="https://github.com/maruffahmed"><img src="https://img.shields.io/github/followers/maruffahmed.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/marufffahmed"><img src="https://img.shields.io/twitter/follow/marufffahmed?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/maruffahmed"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.facebook.com/marufffahmed"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
-	<a href="https://www.instagram.com/marufffahmed/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=intragram" alt="instragram"></a>
-</p>
 
 <!--
-- 📫 How to reach me: ... [Here 🚀](https://www.developermaruf.me)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm funny, and big time fan of ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+<div align="center">
+	<a href="https://github.com/shahriarshafin/shahriarshafin">
+		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=maruffahmed&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://github.com/shahriarshafin/disney-plus-clone">
+		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=maruffahmed&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+	</a>
+</div>
+<div align="center">
+	<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
+		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=maruffahmed&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://github.com/shahriarshafin/Iot-car-controller">
+		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=maruffahmed&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+	</a>
+</div>
 -->
