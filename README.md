@@ -24,7 +24,7 @@
 		<img src="https://img.shields.io/badge/next%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 		<img src="https://img.shields.io/badge/remix%20-%23000000.svg?&style=for-the-badge&logo=remix&logoColor=white"/>
 		<img src="https://img.shields.io/badge/express%20-%23222222.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-		<img src="https://img.shields.io/badge/nest%20-%23222222.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+		<img src="https://img.shields.io/badge/nest%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
 	</div>
 	<br/>
 	<div>
