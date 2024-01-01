@@ -3,7 +3,7 @@
 	<samp>
 		I'm a software engineer
 		<br>
-		Working on Web technology
+		Working on web technology
 		<br>
 	</samp>
 	<br/>
@@ -13,7 +13,7 @@
 		<br>
 	</samp>
 	<div>
-		<img src="https://img.shields.io/badge/jvascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+		<img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 		<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 		<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 		<img src="https://img.shields.io/badge/shopify%20liquid%20-%230B0B80.svg?&style=for-the-badge&logo=shopify&logoColor=white"/>
