@@ -42,9 +42,9 @@
 </div>
 </br>
 <p align="center">
-	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=maruffahmed&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&bg_color=00000000">
-	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maruffahmed&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
-	<img src ="https://streak-stats.demolab.com/?user=maruffahmed&theme=darcula&hide_border=true&background=FFFFFF00">
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mrmarufpro&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&bg_color=00000000">
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmarufpro&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
+	<img src ="https://streak-stats.demolab.com/?user=mrmarufpro&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 
