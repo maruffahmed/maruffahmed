@@ -9,8 +9,16 @@ Open to remote engineering roles and select collaborations.
 - **Frontend Developer (Contract)** — Kaon (prev. FlowGPT), San Francisco · Remote · Jul 2024 – Jun 2025
 
 ### Work worth looking at
+
+**Shipped in production**
+- **[StoreSEO](https://apps.shopify.com/storeseo)** · 5.0★ · 639 reviews
+  AI-powered SEO app for Shopify merchants. Meta + image + schema automation, analytics integration, bulk audits. Built at Storeware-Apps.
+- **[FlowGPT](https://flowgpt.com)** — community AI prompt marketplace & multi-model chat platform
+  Frontend contributor during 2024–2025 contract at Kaon (prev. FlowGPT), San Francisco.
+
+**Open source**
 - **[Delivery Management System](https://github.com/mrmarufpro/Delivery-management-system)** · 55★
-  Open-source delivery ops platform. NestJS · Remix · Prisma · MySQL · [demo](https://dpdms.up.railway.app)
+  Delivery ops platform. NestJS · Remix · Prisma · MySQL · [demo](https://dpdms.up.railway.app)
 - **[Inventory Management System](https://github.com/mrmarufpro/Inventory-Management-System)**
   Stock and order ops on Strapi + Remix + Tailwind.
 - **[AlgoVisu](https://github.com/mrmarufpro/AlgoVisu)** · 15★
