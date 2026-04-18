@@ -1,5 +1,3 @@
-## Maruf Ahmed
-
 Full-stack engineer from Dhaka, Bangladesh. I build production Shopify apps and Node/TypeScript products — the kind that run billing, delivery ops, inventory, and internal tooling for real businesses.
 
 Open to remote engineering roles and select collaborations.
