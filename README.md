@@ -2,7 +2,11 @@
 
 Full-stack engineer from Dhaka, Bangladesh. I build production Shopify apps and Node/TypeScript products — the kind that run billing, delivery ops, inventory, and internal tooling for real businesses.
 
-Currently at [**@Storeware-Apps**](https://github.com/Storeware-Apps). Open to remote engineering roles and select collaborations.
+Open to remote engineering roles and select collaborations.
+
+### Experience
+- **Full-stack Engineer** — [@Storeware-Apps](https://github.com/Storeware-Apps) · *Current*
+- **Frontend Developer (Contract)** — Kaon (prev. FlowGPT), San Francisco · Remote · Jul 2024 – Jun 2025
 
 ### Work worth looking at
 - **[Delivery Management System](https://github.com/mrmarufpro/Delivery-management-system)** · 55★
